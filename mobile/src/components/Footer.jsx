@@ -1,6 +1,6 @@
 import React from 'react';
-import Contactw from './ContactWhatsapp';
-import Contactm from './ContactMail';
+import Contactw from './Contactwhatsapp';
+import Contactm from './Contactmail';
 import Contactphone from './Contactphone';
 import { PhoneOutgoing } from 'lucide-react';
 
