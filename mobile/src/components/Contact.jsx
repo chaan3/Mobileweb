@@ -1,7 +1,7 @@
 import React from 'react'
 import Contactphone from './Contactphone'
 import Contactm from './Contactmail'
-import Contactw from './ContactWhatsapp'
+import Contactw from './Contactwhatsapp'
 
 const Contact = () => {
   return (
