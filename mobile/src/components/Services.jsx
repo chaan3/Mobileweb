@@ -14,7 +14,7 @@ const Services = () => {
           <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12">
             {/* Feature 1 */}
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-              <img className="w-full h-48 object-cover" src="src/assets/1.jpg" alt="Mobile Network" />
+              <img className="w-full h-48 object-cover" src="assets/1.jpg" alt="Mobile Network" />
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-gray-800">Mobile Plans</h3>
                 <p className="mt-4 text-gray-600">
@@ -24,7 +24,7 @@ const Services = () => {
             </div>
             {/* Feature 2 */}
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-              <img className="w-full h-48 object-cover" src="src/assets/3.jpg" alt="Device Repair" />
+              <img className="w-full h-48 object-cover" src="assets/3.jpg" alt="Device Repair" />
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-gray-800">Device Repair</h3>
                 <p className="mt-4 text-gray-600">
@@ -34,7 +34,7 @@ const Services = () => {
             </div>
             {/* Feature 3 */}
             <div className="bg-white shadow-lg rounded-lg overflow-hidden">
-              <img className="w-full h-48 object-cover" src="src/assets/1.png" alt="Customer Support" />
+              <img className="w-full h-48 object-cover" src="assets/1.png" alt="Customer Support" />
               <div className="p-6">
                 <h3 className="text-xl font-semibold text-gray-800">24/7 Support</h3>
                 <p className="mt-4 text-gray-600">

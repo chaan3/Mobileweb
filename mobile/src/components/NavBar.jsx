@@ -151,7 +151,7 @@ const Navbar = () => {
           <div className="flex items-center gap-2">
             <img
               className="h-15 w-14 py-2"
-              src="src/assets/logo.svg"
+              src="assets/logo.svg"
               alt="Logo"
             />
             <h1 className="text-4xl font-bold py-3">Mobile</h1>
