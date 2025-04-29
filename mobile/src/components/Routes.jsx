@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import Register from "./Register";
 import ToDo from "./ToDo";
 import Navbar from "./NavBar";
+import AfterLoginView from "./loginview";
 
 function RoutesComponent() {
   return (
@@ -24,6 +25,7 @@ function RoutesComponent() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/register" element={<Register />} />
         <Route path="/todo" element={<ToDo />} />
+        <Route path="/afterlogin" element={<AfterLoginView />} />
       </Routes>
       
 

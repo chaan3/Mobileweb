@@ -34,7 +34,7 @@ const Navbar = () => {
         if (response.ok) {
             alert(result.message);
             setMessage("Login successful!");
-            navigate("/dashboard"); // Replace with your desired route.
+            navigate("/afterlogin"); // Replace with your desired route.
         } else {
             setError(result.error || "Login failed");
         }
